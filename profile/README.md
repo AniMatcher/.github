@@ -13,7 +13,7 @@ Philip Yi: earning SwiftUI to fulfill the aesthetic requirement and building the
 
 William Zhou: Learning SwiftUI to make an aesthetic IOS app, connecting frontend to backend as well as creating API endpoints. Maybe helping setup database.
 
-Kelly Huang: Learning Fast API. Working on setting up the databases.
+Kelly Huang: Learning Fast API. Working on setting up the databases. Build and train model in backend. Help William with connecting frontend to backend.
 
 Konnie Huang: Learning Fast API. Helping build the website in Next.js with Arnav.
 
