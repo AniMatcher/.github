@@ -9,15 +9,15 @@
 
 ## Work:
 
-Philip Yi: Set up Github and SwiftUI Project. Learning SwiftUI to fulfill the aesthetic requirement and building the mobile app.
+Philip Yi: earning SwiftUI to fulfill the aesthetic requirement and building the mobile app.
 
-William Zhou: Learning SwiftUI to make an asthetic IOS app and talking to Duke to obtain API access to eTransact
+William Zhou: Learning SwiftUI to make an aesthetic IOS app, connecting frontend to backend as well as creating API endpoints. Maybe helping setup database.
 
 Kelly Huang: Learning Fast API. Working on setting up the databases.
 
 Konnie Huang: Learning Fast API. Helping build the website in Next.js with Arnav.
 
-Arnav Jindal: Building the website in Next.JS.
+Arnav Jindal: Building the website in Next.JS. Talking to Duke to obtain API access to eTransact.
 
 ## Repositories
 
