@@ -1,4 +1,4 @@
-# NutriPAL
+# AniMatcher
 
 ## Team:
 - William Zhou
@@ -21,9 +21,9 @@ Arnav Jindal: Building the website in Next.JS. Talking to Duke to obtain API acc
 
 ## Repositories
 
-- [IOS Web App](https://github.com/NutriPalDuke/NutriPal-IOS)
-- [Web Frontend](https://github.com/NutriPalDuke/NutriPal-Web)
-- [Backend](https://github.com/NutriPalDuke/NutriPal-Backend)
+- [React Native App](https://github.com/AniMatcher/App)
+- [Web Frontend](https://github.com/AniMatcher/Web)
+- [Backend](https://github.com/AniMatcher/Backend)
 
 ## Goals
 
