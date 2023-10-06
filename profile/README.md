@@ -19,6 +19,9 @@ Konnie Huang: Learning Fast API. Helping build the website in Next.js with Arnav
 
 Arnav Jindal: Building the website in Next.JS. Talking to Duke to obtain API access to eTransact.
 
+## Demo Video
+https://www.youtube.com/watch?v=-GLwvH9KjoM&ab_channel=daggy1234
+
 ## Repositories
 
 - [React Native App](https://github.com/AniMatcher/App)
