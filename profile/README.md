@@ -9,15 +9,15 @@
 
 ## Work:
 
-Philip Yi: earning SwiftUI to fulfill the aesthetic requirement and building the mobile app.
+Philip Yi: Profile API Endpoints, S3-Bucket, O-Auth, Swiping API Endpoints, Matching Endpoints, Chatroom Endpoints, Database API Endpoints
 
-William Zhou: Learning SwiftUI to make an aesthetic IOS app, connecting frontend to backend as well as creating API endpoints. Maybe helping setup database.
+William Zhou: Login API Endpoints, Swiping UI, Database API Endpoints, User API Endpoints, Swiping API Endpoints
 
-Kelly Huang: Learning Fast API. Working on setting up the databases. Build and train model in backend. Help William with connecting frontend to backend.
+Kelly Huang: Machine learning API Endpoints, Anime API Endpoints, Swiping UI, Database API Endpints, User API Endpoints
 
-Konnie Huang: Learning Fast API. Helping build the website in Next.js with Arnav.
+Konnie Huang: DBMS set up, User API Endpoints, Automatic data generator script, Supabase CRUD Endpoints
 
-Arnav Jindal: Building the website in Next.JS. Talking to Duke to obtain API access to eTransact.
+Arnav Jindal: Frontend, Chatroom Endpoints, O-Auth Login, Login API Endpoints, Profile API Endpoints
 
 ## Demo Video
 https://www.youtube.com/watch?v=-GLwvH9KjoM&ab_channel=daggy1234
