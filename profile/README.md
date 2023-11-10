@@ -7,17 +7,17 @@
 - Konnie Huang
 - Arnav Jindal 
 
-## Updated Work Since Last Milestone:
+## Updated Work Since Last Milestone 3:
 
-Philip Yi: Created S3 Bucket and Profile Picture Adder Feature
+Philip Yi: Created S3 Bucket and Profile Picture Adder Feature. Basically modified UI forms to accept image drag and drop, uploaaded and setup AWS s3 bucket for images. Added endpoints for s3 uploads.  Also made sure to update code for images everywhere.
 
-William Zhou: Created Swiping Feature
+William Zhou: Created Swiping Feature. Setup endpoints to fetch matches, store likes and mutual likes. Also Created UI for swipes.
 
-Kelly Huang: Created Edit Profile Feature
+Kelly Huang: Created Edit Profile Feature. Ensured all api routes for Edit worked and made profile UI nicer.
 
-Konnie Huang: Created Script to make fake users and 
+Konnie Huang: Created Script to make fake users, made endpoints to handle them. Worked on testing code for bugs and fixing authentication glitches from both UI and backend.
 
-Arnav Jindal: Created Chatroom Feature
+Arnav Jindal: Created Chatroom Feature. Made page for matches, allowed matched users to create a websocket based private chatroom that worked realtime.
 
 ## Work:
 
@@ -59,7 +59,8 @@ We have 3 services.
 
 ## Demo Video 
 
-https://www.youtube.com/watch?v=KR02sxAYyuI
+Milestone 3: https://www.youtube.com/watch?v=-GLwvH9KjoM
+Milestone 4: https://www.youtube.com/watch?v=KR02sxAYyuI
 
 
 ## Repositories
