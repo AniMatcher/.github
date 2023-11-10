@@ -7,6 +7,18 @@
 - Konnie Huang
 - Arnav Jindal 
 
+## Updated Work Since Last Milestone:
+
+Philip Yi: Created S3 Bucket and Profile Picture Adder Feature
+
+William Zhou: Created Swiping Feature
+
+Kelly Huang: Created Edit Profile Feature
+
+Konnie Huang: Created Script to make fake users and 
+
+Arnav Jindal: Created Chatroom Feature
+
 ## Work:
 
 Philip Yi: Profile API Endpoints, S3-Bucket, O-Auth, Swiping API Endpoints, Matching Endpoints, Chatroom Endpoints, Database API Endpoints
@@ -45,11 +57,9 @@ We have 3 services.
 
 
 
-## Demo Video 1
-https://www.youtube.com/watch?v=-GLwvH9KjoM&ab_channel=daggy1234
+## Demo Video 
 
-## Demo Video 2
-
+https://www.youtube.com/watch?v=KR02sxAYyuI
 
 
 ## Repositories
