@@ -19,8 +19,38 @@ Konnie Huang: DBMS set up, User API Endpoints, Automatic data generator script, 
 
 Arnav Jindal: Frontend, Chatroom Endpoints, O-Auth Login, Login API Endpoints, Profile API Endpoints
 
-## Demo Video
+## Unique Endpoints:
+ A simplified overview of our API endpoints. For detailed documentation visit: https://web-production-df9f.up.railway.app/redoc
+
+- GET /profile: gets user profile for page
+- POST /profile: post new user profile
+- POST /user: barebones user for Oauth
+- GET /user: check if user is new or not
+- PATCH /profile:  Edit profile
+- POST /user-animes: Add users anime preferences
+- GET /user-animes: get a users name
+- GET /matches: get a users matches
+- POST /like: store when a user swipes right
+- GET /mutual-likes: get matches, when both users like each other
+- POST /create-chatroom: create chat from mutual likes
+- GET /chatroom: get all chatrooms for user
+- GET /messages: get all messages for chatroom
+- POST /message: post a new message
+- GET /anime: get anime with query for anime search
+
+## System Design
+
+We have 3 services.
+
+
+
+
+## Demo Video 1
 https://www.youtube.com/watch?v=-GLwvH9KjoM&ab_channel=daggy1234
+
+## Demo Video 2
+
+
 
 ## Repositories
 
