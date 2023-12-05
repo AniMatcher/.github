@@ -34,7 +34,7 @@ Konnie Huang: DBMS set up, User API Endpoints, Automatic data generator script, 
 Arnav Jindal: Frontend, Chatroom Endpoints, O-Auth Login, Login API Endpoints, Profile API Endpoints, Anilist Endpoints
 
 ## Unique Endpoints:
- A simplified overview of our API endpoints. For detailed documentation visit: https://web-production-df9f.up.railway.app/redoc
+ A simplified overview of our API endpoints. For detailed documentation visit: (https://backend.animatcher.xyz/redoc)
 
 - GET /profile: gets user profile for page
 - POST /profile: post new user profile
